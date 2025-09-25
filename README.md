@@ -25,4 +25,4 @@ The system allows managing books and users, issuing and returning books, and vie
 ---
 
 ## Screenshots
-![program output](sreenshots3/*.png)
+![program output](screenshots3/*.png)
